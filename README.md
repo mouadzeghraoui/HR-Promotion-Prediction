@@ -1,8 +1,8 @@
 # HR-Promotion-Prediction
 about data:
-This is a WNS Analytics Wizard competition.
-The Goal is to develop a classification model to predict whether an employee is promoted or not, and also understand the factors that lead to this promotion.
-The data-set consists of 54808 rows where each row had 14 attributes including target variable (i.e “is_promoted”).
+This is a WNS Analytics Wizard competition.<br>
+The Goal is to develop a classification model to predict whether an employee is promoted or not, and also understand the factors that lead to this promotion.<br>
+The data-set consists of 54808 rows where each row had 14 attributes including target variable (i.e “is_promoted”).<br>
 ### Problem statement:
 - we have given past employee data like department , education , training and its score , previous year rating , promotion etc..as training data and we needed to predict promotion probabilities for test data.
 ### Challenge:
